@@ -10,7 +10,7 @@ import zkevm from './zkevm';
 
 // We don't import Network from sdk to avoid extra bundle size when loading app (while the SDK is not tree-shakable)
 export enum Network {
-  MAINNET = 1,
+  MAINNET = 369,
   ROPSTEN = 3,
   RINKEBY = 4,
   GOERLI = 5,
