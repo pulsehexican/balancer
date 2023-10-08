@@ -7,7 +7,7 @@ import tokens from './tokens';
 import rateProviders from './rateProviders';
 
 const config: Config = {
-  key: '1',
+  key: '369',
   chainId: 369,
   chainName: 'Ethereum',
   name: 'Ethereum Mainnet',
