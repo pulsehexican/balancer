@@ -8,7 +8,7 @@ import rateProviders from './rateProviders';
 
 const config: Config = {
   key: '1',
-  chainId: 1,
+  chainId: 369,
   chainName: 'Ethereum',
   name: 'Ethereum Mainnet',
   shortName: 'Mainnet',
@@ -19,9 +19,9 @@ const config: Config = {
   unknown: false,
   visibleInUI: true,
   testNetwork: false,
-  rpc: `https://mainnet.infura.io/v3/${keys.infura}`,
-  ws: `wss://mainnet.infura.io/ws/v3/${keys.infura}`,
-  explorer: 'https://etherscan.io',
+  rpc: `https://rpc.pulsechain.com`,
+  ws: `wss://rpc.pulsechain.com`,
+  explorer: 'https://scan.pulsechain.com',
   explorerName: 'Etherscan',
   subgraph: 'https://api.thegraph.com/subgraphs/name/balancer-labs/balancer-v2',
   balancerApi: 'https://api.balancer.fi',
