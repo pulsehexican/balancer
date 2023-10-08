@@ -4,8 +4,8 @@
     "timestamp": "2022-10-22T00:00:00.000Z",
     "tokens": [
       {
-        "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
-        "chainId": 1,
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "chainId": 369,
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
@@ -13,7 +13,7 @@
       },
       {
         "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-        "chainId": 1,
+        "chainId": 369,
         "name": "Balancer",
         "symbol": "BAL",
         "decimals": 18,
@@ -21,7 +21,7 @@
       },
       {
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "chainId": 1,
+        "chainId": 369,
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
@@ -29,7 +29,7 @@
       },
       {
         "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "chainId": 1,
+        "chainId": 369,
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "decimals": 18,
@@ -37,7 +37,7 @@
       },
       {
         "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-        "chainId": 1,
+        "chainId": 369,
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,
@@ -45,7 +45,7 @@
       },
       {
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "chainId": 1,
+        "chainId": 369,
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
@@ -53,7 +53,7 @@
       },
       {
         "address": "0xf8Fd466F12e236f4c96F7Cce6c79EAdB819abF58",
-        "chainId": 1,
+        "chainId": 369,
         "name": "Wrapped aUSDT",
         "symbol": "aUSDT",
         "decimals": 6,
